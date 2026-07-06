@@ -1,0 +1,9 @@
+Login successful
+Dashboard opened in Tab 1
+Processing Dashboard opened in Tab 2
+Logout successful from Tab 1
+Refreshing Tab 2
+Tab 2 refreshed
+Tab 2 redirected to Login page
+Protected page access blocked
+PASS : E2E_11 Cross Tab Session Invalidation

@@ -1,0 +1,9 @@
+
+Validating Processed
+Rows Found = 10
+Processed filter validated successfully
+
+Validating Unprocessed
+Rows Found = 1
+Unprocessed filter validated successfully
+PASS : TC_34 Processing Status Filters

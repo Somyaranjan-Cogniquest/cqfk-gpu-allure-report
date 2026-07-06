@@ -1,0 +1,6 @@
+Date filter applied
+Status filter applied
+Flag filter applied
+Cards updated after filters
+Clear Filters clicked
+TC_50 PASSED

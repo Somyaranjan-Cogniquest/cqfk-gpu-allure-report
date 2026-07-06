@@ -1,0 +1,9 @@
+Current URL after model click: https://gpucontainer.cogniquest.ai/InvIDPApi/document
+TAAS Count: 1
+URL after TAAS click: https://gpucontainer.cogniquest.ai/InvIDPApi/LandingPage
+Cards Found: 4
+Card: Configure Model
+Card: Training
+Card: Processing Dashboard
+Card: Document Analytics
+✅ Document Analytics page loaded successfully

@@ -1,0 +1,7 @@
+Processing Dashboard opened
+Document opened successfully
+Line Items tab opened
+Zoom Before = 210%
+Zoom Out button clicked
+Zoom After = 200%
+PASS : PDF zoom level decreased successfully

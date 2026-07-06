@@ -1,0 +1,18 @@
+
+Applying Filter : Approved
+Approved Records : 0
+No data available for Approved
+
+Applying Filter : Not approved
+Not approved Records : 10
+Not approved filter working successfully
+
+Applying Filter : Rejected
+Rejected Records : 0
+No data available for Rejected
+
+Applying Filter : Deleted
+Deleted Records : 0
+No data available for Deleted
+
+TC_33 Passed - Review Status filters verified

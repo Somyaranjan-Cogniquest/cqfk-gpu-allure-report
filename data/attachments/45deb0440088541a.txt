@@ -1,0 +1,4 @@
+Configure Model page opened
+Add New Section panel opened
+Label text is visible
+PASS : Label textbox was displayed successfully.

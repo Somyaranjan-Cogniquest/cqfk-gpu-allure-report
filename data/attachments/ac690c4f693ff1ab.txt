@@ -1,0 +1,4 @@
+Base rows: 10
+Filtered rows: 0
+Final rows: 10
+TC_45 Passed - Clear Filters working properly

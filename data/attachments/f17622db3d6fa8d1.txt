@@ -1,0 +1,5 @@
+Configure Model page opened
+Add New Section panel opened
+Entered invalid symbols: @#$%^
+Save button remained disabled
+PASS : Validation message displayed for invalid symbols input

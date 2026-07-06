@@ -1,0 +1,4 @@
+Configure Model page opened
+Add New Section panel opened
+Entered Label : AB
+PASS : Save button became enabled after entering at least 2 characters

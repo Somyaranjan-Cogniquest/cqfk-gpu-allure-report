@@ -1,0 +1,3 @@
+Logout successful
+URL after browser back: https://gpucontainer.cogniquest.ai/InvIDPApi/login
+User remained logged out

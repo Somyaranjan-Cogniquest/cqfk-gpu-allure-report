@@ -1,0 +1,3 @@
+Dashboard access blocked
+Document page access blocked
+TC_61 Passed - Direct URL access blocked after logout

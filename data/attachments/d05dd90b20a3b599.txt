@@ -1,0 +1,8 @@
+Processing Dashboard opened
+100% document found in row 1
+Document opened successfully
+Line Items tab opened
+Zoom Before = 210%
+Zoom In button clicked
+Zoom After = 220%
+PASS : PDF zoom level increased successfully

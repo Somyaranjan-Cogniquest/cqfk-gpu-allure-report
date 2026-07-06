@@ -1,0 +1,3 @@
+Row 1 menu opened
+Only one menu remains open
+TC_67 Passed Successfully

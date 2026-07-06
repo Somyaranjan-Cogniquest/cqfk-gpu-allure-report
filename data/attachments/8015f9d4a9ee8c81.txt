@@ -1,0 +1,8 @@
+Configure Model page opened
+Add New Field panel opened
+Label field displayed
+Presentation Type displayed
+Data Type displayed
+Required option displayed
+Visible option displayed
+PASS : Label, Presentation Type, Data Type, Required and Visible options were displayed successfully.

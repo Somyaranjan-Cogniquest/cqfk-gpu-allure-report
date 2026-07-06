@@ -1,0 +1,1 @@
+[{"values":["URL=https://gpucontainer.cogniquest.ai/InvIDPApi"],"name":"Application"},{"values":["GPU Container"],"name":"Environment"},{"values":["v1.6"],"name":"Version"},{"values":["By=Somyaranjan Sahoo"],"name":"Executed"},{"values":["Pytest + Playwright"],"name":"Framework"},{"values":["Chromium"],"name":"Browser"}]

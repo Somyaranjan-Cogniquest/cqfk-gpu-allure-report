@@ -1,0 +1,3 @@
+Selected Processing Dashboard Doc ID: 72112
+Extraction Page Doc ID: 72112
+PASS - Opened document matches selected Doc ID

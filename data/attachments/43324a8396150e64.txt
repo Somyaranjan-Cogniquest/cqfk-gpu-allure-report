@@ -1,0 +1,8 @@
+Dashboard loaded successfully
+Processing Dashboard opened
+Opened document from row 1
+Current URL : https://gpucontainer.cogniquest.ai/InvIDPApi/document_slt
+PDF Viewer visible
+Extracted fields visible
+Line Items section visible
+PASS : E2E_01 Login → Dashboard → Processing Dashboard → View Document → Extraction Page

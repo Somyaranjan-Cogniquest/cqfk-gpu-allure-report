@@ -1,0 +1,3 @@
+Configure Model page opened
+Clicked Add New Field
+PASS : Add New Field panel opened successfully

@@ -1,0 +1,4 @@
+Total Documents = 78
+Green Filter Applied | Rows: 10 | Total Documents: 78
+Total Documents = 45
+Red Filter Applied | Rows: 10 | Total Documents: 45

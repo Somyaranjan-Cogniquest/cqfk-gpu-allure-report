@@ -1,0 +1,2 @@
+Redirected URL: https://gpucontainer.cogniquest.ai/InvIDPApi/login
+Protected page blocked after logout

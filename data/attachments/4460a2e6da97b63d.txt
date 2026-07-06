@@ -1,0 +1,4 @@
+Eye icon is visible
+Password visible successfully
+Password masked successfully
+PASS: Password visibility toggle working correctly.

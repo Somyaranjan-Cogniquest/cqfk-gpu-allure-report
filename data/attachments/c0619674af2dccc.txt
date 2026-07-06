@@ -1,0 +1,4 @@
+Desktop view validated
+Laptop view validated
+Tablet view validated
+Mobile view validated

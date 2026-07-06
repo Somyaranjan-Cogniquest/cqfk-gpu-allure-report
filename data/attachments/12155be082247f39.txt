@@ -1,0 +1,1 @@
+PASS: Password value remains unchanged after multiple visibility toggles.

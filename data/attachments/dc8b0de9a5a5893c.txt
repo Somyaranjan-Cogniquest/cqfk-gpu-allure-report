@@ -1,0 +1,1 @@
+PASS: Eye icon is visible even when password field is empty.

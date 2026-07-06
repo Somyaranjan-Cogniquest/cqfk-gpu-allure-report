@@ -1,0 +1,4 @@
+100% Document Found in Row 1
+Current URL: https://gpucontainer.cogniquest.ai/InvIDPApi/document_slt
+PDF loaded successfully
+Extraction page loaded successfully

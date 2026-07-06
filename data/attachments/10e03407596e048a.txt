@@ -1,0 +1,7 @@
+Model Landing Page Opened
+Processing Dashboard Opened
+100% Processed Document Found : Row 1
+Data Field Page Opened
+Invoice Details Visible
+Zoom In button clicked
+PASS : Zoom In (+) button working successfully

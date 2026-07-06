@@ -1,0 +1,6 @@
+Using Doc ID: 72112
+Filtered Rows Found: 1
+Refresh executed successfully
+Search After Refresh: 72112
+Rows After Refresh: 1
+TC_73 Passed - Refresh preserved search and filter state

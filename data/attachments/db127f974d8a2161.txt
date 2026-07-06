@@ -1,0 +1,9 @@
+Processing Dashboard opened
+100% document found in row 1
+Document opened successfully
+Line Items tab opened
+Default Zoom = 210%
+Zoom After Zoom-In = 220%
+Fit To Width clicked
+Zoom After Fit Width = 208%
+PASS : Fit To Width restored document view

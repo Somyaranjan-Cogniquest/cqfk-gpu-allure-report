@@ -1,0 +1,5 @@
+Model Landing Page Opened
+Processing Dashboard Opened
+Invoice Details Visible
+Zoom Out button clicked
+PASS : Zoom Out (-) button working successfully

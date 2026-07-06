@@ -1,0 +1,2 @@
+Profile dropdown opened successfully
+Profile dropdown closed successfully after outside click

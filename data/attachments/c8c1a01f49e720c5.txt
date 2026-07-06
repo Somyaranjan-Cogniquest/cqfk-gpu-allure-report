@@ -1,0 +1,6 @@
+Model Landing Page Opened
+Processing Dashboard Opened
+Data Field Page Opened
+Validate Button Visible
+Validate Button Clicked
+PASS : Data validated successfully

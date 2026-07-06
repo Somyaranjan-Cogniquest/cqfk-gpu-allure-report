@@ -1,0 +1,3 @@
+Configure Model page opened
+Clicked Add New Section button
+PASS : Add New Section panel opened successfully

@@ -1,0 +1,6 @@
+Checking UI responsiveness at 1920x1080
+Checking UI responsiveness at 1366x768
+Checking UI responsiveness at 1024x768
+Checking UI responsiveness at 768x1024
+Checking UI responsiveness at 375x667
+✅ TC_41 PASSED: UI is responsive across all screen sizes

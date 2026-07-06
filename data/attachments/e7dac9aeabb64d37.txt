@@ -1,0 +1,8 @@
+Login successful
+Protected URL: https://gpucontainer.cogniquest.ai/InvIDPApi/document
+Second tab opened successfully
+Logout successful
+Second tab redirected to Login page
+Protected URL blocked successfully
+Back button did not restore session
+PASS : E2E_09 Logout + Security + Multi-Tab Invalidation

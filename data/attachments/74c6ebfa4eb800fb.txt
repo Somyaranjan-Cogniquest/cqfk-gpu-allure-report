@@ -1,0 +1,5 @@
+Configure Model page opened
+Add New Section panel opened
+Entered Label : A
+Save button remained disabled
+PASS : Appropriate validation message displayed for single character input

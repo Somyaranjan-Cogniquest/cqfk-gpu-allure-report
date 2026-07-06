@@ -1,0 +1,3 @@
+Current URL: https://gpucontainer.cogniquest.ai/InvIDPApi/document
+URL after refresh: https://gpucontainer.cogniquest.ai/InvIDPApi/document
+TC_53 PASSED

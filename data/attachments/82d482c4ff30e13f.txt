@@ -1,0 +1,6 @@
+Using Doc ID: 72112
+Rows after whitespace search: 1
+Full Document: SHRINRG25d749109_IRN_SHRB0051E434_PO.pdf
+Partial Search: SHRINRG2
+Rows after partial search: 10
+TC_55 PASSED

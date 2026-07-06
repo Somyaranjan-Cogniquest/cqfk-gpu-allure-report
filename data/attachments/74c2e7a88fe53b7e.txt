@@ -1,0 +1,9 @@
+Login successful
+Processing Dashboard opened
+First Doc ID : 72112
+Extraction Doc ID : 72112
+First document validated
+Second Doc ID : 72111
+Extraction Doc ID : 72111
+Second document validated
+PASS : E2E_12 View Document Doc Integrity

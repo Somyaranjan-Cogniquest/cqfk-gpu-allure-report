@@ -1,0 +1,3 @@
+Logout option is visible
+Version not displayed
+TC_58 Passed

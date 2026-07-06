@@ -1,0 +1,10 @@
+Model Landing Page Opened
+Processing Dashboard Opened
+100% Processed Document Found : Row 1
+Data Field Page Opened
+Invoice Details Visible
+Initial Zoom Value : 100
+Zoom In Value : 152
+Zoom In working
+Zoom Out Value : 100
+PASS : Zoom Slider working successfully

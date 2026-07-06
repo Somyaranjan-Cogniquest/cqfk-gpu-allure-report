@@ -1,0 +1,3 @@
+Tab 2 opened successfully
+Logout successful from Tab 1
+PASS: Refreshing Tab 2 redirected user to Login page.

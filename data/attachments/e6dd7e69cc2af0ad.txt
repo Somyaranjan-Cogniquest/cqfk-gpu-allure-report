@@ -1,0 +1,11 @@
+Current Page : 1
+Total Pages : 13
+Currently On First Page
+< and << should be disabled
+Next Page Opened : 2
+Previous Page Opened : 1
+Last Page Opened : 13
+> and >> are disabled on last page
+Returned To First Page : 1
+< and << are disabled on first page
+TC_92 Pagination Navigation Passed Successfully

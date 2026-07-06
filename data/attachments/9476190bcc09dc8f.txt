@@ -1,0 +1,6 @@
+Initial rows: 10
+Rows after selecting 20: 20
+Rows after selecting 10: 10
+Rows after selecting 30: 30
+Rows after selecting 40: 40
+✅ TC_39 PASSED: Pagination working correctly for all page sizes

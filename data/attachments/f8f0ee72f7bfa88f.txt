@@ -1,0 +1,9 @@
+Model Landing Page Opened
+Processing Dashboard Opened
+100% Processed Document Found : Row 1
+Data Field Page Opened
+Invoice Details Visible
+Zoom In Applied
+Zoom Out Applied
+Fit To Width clicked
+PASS : Fit To Width functionality working successfully

@@ -1,0 +1,17 @@
+Dashboard loaded successfully
+Processing Dashboard opened
+100% document found in row 1
+3-dot menu opened
+Menu Text:
+View document
+Reprocess document
+Delete document
+Refresh
+View Document option visible
+Reprocess Document option visible
+Delete Document option visible
+Refresh option visible
+Refresh clicked successfully
+Table refreshed successfully
+Menu closed on outside click
+PASS : E2E_03 Action Menu Refresh Validation Successful

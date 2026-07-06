@@ -1,0 +1,5 @@
+Processing Dashboard opened
+TAAS Landing Page opened
+Configure Model clicked
+Current URL : https://gpucontainer.cogniquest.ai/InvIDPApi/settings/data_field
+PASS : Configure Model page opened successfully
